@@ -32,7 +32,7 @@ When will the source be here?? oh well once its done ofc
 
 ### Input System =  Decent, Needs adjustments however 56% Complete
 
-### Mod Support = <img width="35" height="37" alt="image" src="https://github.com/user-attachments/assets/6e54fe11-4737-4e55-ba3d-8906b9981b01" />  (TBT)
+### Mod Support = <img width="35" height="37" alt="image" src="https://github.com/user-attachments/assets/6e54fe11-4737-4e55-ba3d-8906b9981b01" />  (TBD)
 
 ### LUA Support = <img width="35" height="37" alt="image" src="https://github.com/user-attachments/assets/6e54fe11-4737-4e55-ba3d-8906b9981b01" /> (TBD)
 
