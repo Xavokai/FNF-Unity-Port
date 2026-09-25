@@ -20,19 +20,43 @@ When will the source be here?? oh well once its done ofc
 ---
 
 
-# Total %:  82.1
+# Total %:  86.5%
 
 ---
 
 ### Menu's = 92% Complete 
+- Intro 99%
+- Title 100%
+- Main 99%
+- Freeplay 99%
+- Story 94%
+- Settings 60%
+- Pause 98%
+- Mods 24%
+- Credits ???%
+- Debug Screen ???% (screen where u chart songs and stuff)
 
 ### Gameplay = 60% Complete
+- Tutorial 100%
+- Week 1 100%
+- Week 2 100%
+- Week 3 100%
+- Week 4 98%
+- Week 5 100%
+- Week 6 13% (unloved, will be finished tho i swear)
+- Week 7 98%
+- WeekEND 1 74% 
+- Input System 90%
+- Sprites 89%
+- Animations 90%
+- Events 80%
+- Shader/Effects 70%
 
 ### Performance = Good 80% Complete
 
-### Input System =  Decent, Needs adjustments however 56% Complete
 
-### Mod Support = <img width="35" height="37" alt="image" src="https://github.com/user-attachments/assets/6e54fe11-4737-4e55-ba3d-8906b9981b01" />  (TBD)
+
+### Mod Support 10%
 
 ### LUA Support = <img width="35" height="37" alt="image" src="https://github.com/user-attachments/assets/6e54fe11-4737-4e55-ba3d-8906b9981b01" /> (TBD)
 
