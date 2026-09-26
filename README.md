@@ -36,11 +36,9 @@ When will the source be here?? oh well once its done ofc
 - Credits 80%
 - Debug Screen ???% (screen where u chart songs and stuff)
 - Results 90%?
-- Death/Fail/reset 
+- Death/Fail/reset  40%
 
-Uploading FNF-UP_4wdaVtBdoA.mp4…
 
- 40%
 ### Gameplay = 74% Complete
 - Tutorial 100%
 - Week 1 100%
