@@ -20,7 +20,7 @@ When will the source be here?? oh well once its done ofc
 ---
 
 
-# Total %:  90%
+# Total %:  90
 
 ---
 
