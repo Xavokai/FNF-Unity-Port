@@ -20,7 +20,9 @@ When will the source be here?? oh well once its done ofc
 ---
 
 
-# Total %:  90
+# Total %:  80
+# BASE GAME %:   84
+# MODDING %:   26
 
 ---
 
