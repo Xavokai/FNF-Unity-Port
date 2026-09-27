@@ -23,20 +23,20 @@ For now, the project is still actively being worked on.
 
 ### Total Progress
 
-![Total Progress](https://progress-bar.xyz/80/?style=for-the-badge)
+![Total Progress](https://progress-bar.xyz/86/?style=for-the-badge)
 
 **Base Game:**
 
-![BaseG Progress](https://progress-bar.xyz/84/?style=for-the-badge)
+![BaseG Progress](https://progress-bar.xyz/90/?style=for-the-badge)
 
 
 **Modding + Lua Support:**
 
-![MODtot Progress](https://progress-bar.xyz/26/?style=for-the-badge)
+![MODtot Progress](https://progress-bar.xyz/30/?style=for-the-badge)
 
 ---
 
-## Menus — 96%
+## Menus — 97.5%
 
 | Menu / System | Progress |
 | --- | ---: |
@@ -44,7 +44,7 @@ For now, the project is still actively being worked on.
 | Title Screen | ![Title Progress](https://progress-bar.xyz/100/?style=for-the-badge)|
 | Main Menu | ![Main Progress](https://progress-bar.xyz/99/?style=for-the-badge)| 
 | Freeplay | ![FreePlay Progress](https://progress-bar.xyz/99/?style=for-the-badge) | 
-| Story Mode | ![StoryM Progress](https://progress-bar.xyz/95/?style=for-the-badge) | 
+| Story Mode | ![StoryM Progress](https://progress-bar.xyz/100/?style=for-the-badge) | 
 | Settings | ![Settings Progress](https://progress-bar.xyz/60/?style=for-the-badge) |
 | Pause Menu | ![Pause Progress](https://progress-bar.xyz/98/?style=for-the-badge) |
 | Mods | ![Mods Progress](https://progress-bar.xyz/24/?style=for-the-badge)|
@@ -55,7 +55,7 @@ For now, the project is still actively being worked on.
 
 ---
 
-## Gameplay — 74%
+## Gameplay — 83%
 
 | Area | Progress |
 | --- | ---: |
@@ -65,20 +65,20 @@ For now, the project is still actively being worked on.
 | Week 3 | ![W3 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
 | Week 4 | ![W4 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
 | Week 5 | ![W5 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-| Week 6 | ![W6 Progress](https://progress-bar.xyz/20/?style=for-the-badge) |
+| Week 6 | ![W6 Progress](https://progress-bar.xyz/40/?style=for-the-badge) |
 | Week 7 | ![W7 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-| Weekend 1 | ![WE1 Progress](https://progress-bar.xyz/96/?style=for-the-badge) |
-| Input System | ![INP Progress](https://progress-bar.xyz/96/?style=for-the-badge) |
+| Weekend 1 | ![WE1 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
+| Input System | ![INP Progress](https://progress-bar.xyz/99/?style=for-the-badge) |
 | Sprites | ![Sprite Progress](https://progress-bar.xyz/98/?style=for-the-badge) |
-| Animations | ![Anims Progress](https://progress-bar.xyz/90/?style=for-the-badge) |
+| Animations | ![Anims Progress](https://progress-bar.xyz/97/?style=for-the-badge) |
 | Events | ![Events Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-| Shaders / Effects | ![FX Progress](https://progress-bar.xyz/92/?style=for-the-badge) |
+| Shaders / Effects | ![FX Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
 
 ---
 
-## Performance — 80%
+## Performance — 90%
 
-Current state: **Good**
+Current state: **GREAT**
 
 There's still optimization work to do, but overall performance is in a pretty decent place.
 
@@ -95,3 +95,17 @@ https://github.com/user-attachments/assets/391e67e0-96db-4cbc-a557-43e049515ed7
 ### Week 7 Showcase
 
 https://github.com/user-attachments/assets/ec4634ab-222d-4f05-af57-900fac73ebf2
+
+### Weekend 1 Showcase
+- Shows that u can skip cutscenes aswell!
+  
+https://github.com/user-attachments/assets/e940e3f5-9107-4399-bca4-109666f5e414
+
+### Story Mode Screen Showcase
+
+https://github.com/user-attachments/assets/e0d76eaf-6267-492b-84ad-89da1c93f01b
+
+
+
+
+
