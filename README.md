@@ -23,11 +23,11 @@ For now, the project is still actively being worked on.
 
 ### Total Progress
 
-![Total Progress](https://progress-bar.xyz/86/?style=for-the-badge)
+![Total Progress](https://progress-bar.xyz/92/?style=for-the-badge)
 
 **Base Game:**
 
-![BaseG Progress](https://progress-bar.xyz/90/?style=for-the-badge)
+![BaseG Progress](https://progress-bar.xyz/97/?style=for-the-badge)
 
 
 **Modding + Lua Support:**
@@ -36,13 +36,13 @@ For now, the project is still actively being worked on.
 
 ---
 
-## Menus — 97.5%
+## Menus — 90%
 
 | Menu / System | Progress |
 | --- | ---: |
 | Intro | ![Intro Progress](https://progress-bar.xyz/99/?style=for-the-badge)|
 | Title Screen | ![Title Progress](https://progress-bar.xyz/100/?style=for-the-badge)|
-| Main Menu | ![Main Progress](https://progress-bar.xyz/99/?style=for-the-badge)| 
+| Main Menu | ![Main Progress](https://progress-bar.xyz/90/?style=for-the-badge)| 
 | Freeplay | ![FreePlay Progress](https://progress-bar.xyz/99/?style=for-the-badge) | 
 | Story Mode | ![StoryM Progress](https://progress-bar.xyz/100/?style=for-the-badge) | 
 | Settings | ![Settings Progress](https://progress-bar.xyz/60/?style=for-the-badge) |
@@ -55,19 +55,11 @@ For now, the project is still actively being worked on.
 
 ---
 
-## Gameplay — 83%
+## Gameplay — 98%
 
 | Area | Progress |
 | --- | ---: |
-| Tutorial | ![TUT Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-| Week 1 | ![W1 Progress](https://progress-bar.xyz/100/?style=for-the-badge)|
-| Week 2 | ![W2 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-| Week 3 | ![W3 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-| Week 4 | ![W4 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-| Week 5 | ![W5 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-| Week 6 | ![W6 Progress](https://progress-bar.xyz/40/?style=for-the-badge) |
-| Week 7 | ![W7 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-| Weekend 1 | ![WE1 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
+| All Base Weeks | ![WEEK Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
 | Input System | ![INP Progress](https://progress-bar.xyz/99/?style=for-the-badge) |
 | Sprites | ![Sprite Progress](https://progress-bar.xyz/98/?style=for-the-badge) |
 | Animations | ![Anims Progress](https://progress-bar.xyz/97/?style=for-the-badge) |
