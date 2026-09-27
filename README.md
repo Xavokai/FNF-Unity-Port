@@ -25,7 +25,7 @@ For now, the project is still actively being worked on.
 
 ![Total Progress](https://progress-bar.xyz/80/?style=for-the-badge)
 
-**Base Game:** 84%  
+**Base Game:**
 
 ![BaseG Progress](https://progress-bar.xyz/84/?style=for-the-badge)
 
