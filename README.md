@@ -1,84 +1,97 @@
-# FNF-Unity-Port
-exactly as it says it is
-
-
 # Friday Night Funkin' Unity Port
 
-a port of friday night funkin' to unity 2022.3.22f1  < why this version? im lazy to upgrade
+A port of **Friday Night Funkin'** to **Unity 2022.3.22f1**.
 
-Why? 
+> Why this Unity version? Mostly because I'm too lazy to upgrade it right now.
 
-modding plus 3d space + shaderss :3c i love messing with unity
+The goal is to recreate the base game as accurately as possible in Unity while also leaving room for the extra stuff I enjoy messing with: **modding, 3D scenes, shaders, effects, and more**.
 
-so this will defo be worth i, i plan to release a mod when this is done
+I also plan to release a mod once the port itself is in a state I'm happy with.
 
+## Source Code
 
-When will the source be here?? oh well once its done ofc
+The source will be released once the project is finished enough that I'm comfortable putting it out publicly.
 
-# Port completion % 
-### ( all estimate cus im lazy to calculate but based off of how i feel ig? LOL )
----
-
-
-# Total %:  80
-# BASE GAME %:   84
-# MODDING %:   26
+For now, the project is still actively being worked on.
 
 ---
 
-### Menu's = 96% Complete 
-- Intro 99%
-- Title 100%
-- Main 99%
-- Freeplay 99%
-- Story 95%
-- Settings 60%
-- Pause 98%
-- Mods 24%
-- Credits 80%
-- Debug Screen ???% (screen where u chart songs and stuff)
-- Results 90%?
-- Death/Fail/reset  40%
+## Project Progress
+
+> These percentages are rough estimates based on the current state of the project. They aren't calculated.
 
 
-### Gameplay = 74% Complete
-- Tutorial 100%
-- Week 1 100%
-- Week 2 100%
-- Week 3 100%
-- Week 4 100%
-- Week 5 100%
-- Week 6 13% (unloved, will be finished tho i swear)
-- Week 7 100%
-- WeekEND 1 90% 
-- Input System 100%
-- Sprites 98%
-- Animations 90%
-- Events 100%
-- Shader/Effects 90%
+### Total Progress
 
-### Performance = Good 80% Complete
+![Total Progress](https://progress-bar.xyz/80/?style=for-the-badge)
+
+**Base Game:** 84%  
+
+![BaseG Progress](https://progress-bar.xyz/84/?style=for-the-badge)
 
 
+**Modding + Lua Support:**
 
-### Mod Support 12%
-
-### LUA Support = <img width="35" height="37" alt="image" src="https://github.com/user-attachments/assets/6e54fe11-4737-4e55-ba3d-8906b9981b01" /> (TBD)
+![MODtot Progress](https://progress-bar.xyz/26/?style=for-the-badge)
 
 ---
 
-PROOF OF WORK:
+## Menus — 96%
 
+| Menu / System | Progress |
+| --- | ---: |
+| Intro | ![Intro Progress](https://progress-bar.xyz/99/?style=for-the-badge)|
+| Title Screen | ![Title Progress](https://progress-bar.xyz/100/?style=for-the-badge)|
+| Main Menu | ![Main Progress](https://progress-bar.xyz/99/?style=for-the-badge)| 
+| Freeplay | ![FreePlay Progress](https://progress-bar.xyz/99/?style=for-the-badge) | 
+| Story Mode | ![StoryM Progress](https://progress-bar.xyz/95/?style=for-the-badge) | 
+| Settings | ![Settings Progress](https://progress-bar.xyz/60/?style=for-the-badge) |
+| Pause Menu | ![Pause Progress](https://progress-bar.xyz/98/?style=for-the-badge) |
+| Mods | ![Mods Progress](https://progress-bar.xyz/24/?style=for-the-badge)|
+| Credits | ![Credits Progress](https://progress-bar.xyz/80/?style=for-the-badge) |
+| Debug / Chart Editor | ??? <img width="25" height="25" alt="CE" src="https://github.com/user-attachments/assets/6e54fe11-4737-4e55-ba3d-8906b9981b01" /> | 
+| Results Screen | ![Win Progress](https://progress-bar.xyz/98/?style=for-the-badge) |
+| Death / Fail / Reset | ![Death Progress](https://progress-bar.xyz/48/?style=for-the-badge) |
 
-<img width="1051" height="682" alt="image" src="https://github.com/user-attachments/assets/fefd5ae5-1815-4844-895c-ae653c42ff3b" />
+---
 
+## Gameplay — 74%
 
-# WEEK 4 SHOWCASE
+| Area | Progress |
+| --- | ---: |
+| Tutorial | ![TUT Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
+| Week 1 | ![W1 Progress](https://progress-bar.xyz/100/?style=for-the-badge)|
+| Week 2 | ![W2 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
+| Week 3 | ![W3 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
+| Week 4 | ![W4 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
+| Week 5 | ![W5 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
+| Week 6 | ![W6 Progress](https://progress-bar.xyz/20/?style=for-the-badge) |
+| Week 7 | ![W7 Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
+| Weekend 1 | ![WE1 Progress](https://progress-bar.xyz/96/?style=for-the-badge) |
+| Input System | ![INP Progress](https://progress-bar.xyz/96/?style=for-the-badge) |
+| Sprites | ![Sprite Progress](https://progress-bar.xyz/98/?style=for-the-badge) |
+| Animations | ![Anims Progress](https://progress-bar.xyz/90/?style=for-the-badge) |
+| Events | ![Events Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
+| Shaders / Effects | ![FX Progress](https://progress-bar.xyz/92/?style=for-the-badge) |
+
+---
+
+## Performance — 80%
+
+Current state: **Good**
+
+There's still optimization work to do, but overall performance is in a pretty decent place.
+
+---
+
+## Proof of Work
+
+<img width="1051" height="682" alt="FNF Unity Port development screenshot" src="https://github.com/user-attachments/assets/fefd5ae5-1815-4844-895c-ae653c42ff3b" />
+
+### Week 4 Showcase
 
 https://github.com/user-attachments/assets/391e67e0-96db-4cbc-a557-43e049515ed7
 
-# WEEK 7 SHOWCASE
+### Week 7 Showcase
 
 https://github.com/user-attachments/assets/ec4634ab-222d-4f05-af57-900fac73ebf2
-
-
