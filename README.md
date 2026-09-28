@@ -23,11 +23,11 @@ For now, the project is still actively being worked on.
 
 ### Total Progress
 
-![Total Progress](https://progress-bar.xyz/92/?style=for-the-badge)
+![Total Progress](https://progress-bar.xyz/80/?style=for-the-badge)
 
 **Base Game:**
 
-![BaseG Progress](https://progress-bar.xyz/97/?style=for-the-badge)
+![BaseG Progress](https://progress-bar.xyz/83/?style=for-the-badge)
 
 
 **Modding + Lua Support:**
