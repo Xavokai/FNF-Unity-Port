@@ -36,7 +36,7 @@ For now, the project is still actively being worked on.
 
 ---
 
-## Menus — 90%
+## Menus — 87%
 
 | Menu / System | Progress |
 | --- | ---: |
@@ -51,7 +51,9 @@ For now, the project is still actively being worked on.
 | Credits | ![Credits Progress](https://progress-bar.xyz/80/?style=for-the-badge) |
 | Debug / Chart Editor | ??? <img width="25" height="25" alt="CE" src="https://github.com/user-attachments/assets/6e54fe11-4737-4e55-ba3d-8906b9981b01" /> | 
 | Results Screen | ![Win Progress](https://progress-bar.xyz/98/?style=for-the-badge) |
-| Death / Fail / Reset | ![Death Progress](https://progress-bar.xyz/48/?style=for-the-badge) |
+| Death / Fail / Reset | ![Death Progress](https://progress-bar.xyz/80/?style=for-the-badge) |
+| Asset Preloading | ![Pre Progress](https://progress-bar.xyz/50/?style=for-the-badge) |
+
 
 ---
 
@@ -68,9 +70,9 @@ For now, the project is still actively being worked on.
 
 ---
 
-## Performance — 90%
+## Performance — 100%
 
-Current state: **GREAT**
+Current state: **PERFECT**
 
 There's still optimization work to do, but overall performance is in a pretty decent place.
 
