@@ -1,4 +1,12 @@
-# ETA finish near halloween! 
+# ETA finish near halloween!  (or later..?)
+
+i plan to also port this to 3 different platforms
+- mobile
+- xbox 360 (how..?)
+- PC
+
+
+this might take longer than i expected it as im now drawing custom assets and wanting to add a ton of features to make this the ULTIMATE FNF port.
 
 
 # Friday Night Funkin' Unity Port
