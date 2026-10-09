@@ -27,67 +27,12 @@ For now, the project is still actively being worked on.
 
 ---
 
-## Project Progress
-
-> These percentages are rough estimates based on the current state of the project. They aren't calculated.
-
-
 ### Total Progress
 
-![Total Progress](https://progress-bar.xyz/80/?style=for-the-badge)
-
-**Base Game:**
-
-![BaseG Progress](https://progress-bar.xyz/83/?style=for-the-badge)
+![Total Progress](https://progress-bar.xyz/54/?style=for-the-badge)
 
 
-**Modding + Lua Support:**
 
-![MODtot Progress](https://progress-bar.xyz/30/?style=for-the-badge)
-
----
-
-## Menus — 87%
-
-| Menu / System | Progress |
-| --- | ---: |
-| Intro | ![Intro Progress](https://progress-bar.xyz/99/?style=for-the-badge)|
-| Title Screen | ![Title Progress](https://progress-bar.xyz/100/?style=for-the-badge)|
-| Main Menu | ![Main Progress](https://progress-bar.xyz/90/?style=for-the-badge)| 
-| Freeplay | ![FreePlay Progress](https://progress-bar.xyz/99/?style=for-the-badge) | 
-| Story Mode | ![StoryM Progress](https://progress-bar.xyz/100/?style=for-the-badge) | 
-| Settings | ![Settings Progress](https://progress-bar.xyz/60/?style=for-the-badge) |
-| Pause Menu | ![Pause Progress](https://progress-bar.xyz/98/?style=for-the-badge) |
-| Mods | ![Mods Progress](https://progress-bar.xyz/24/?style=for-the-badge)|
-| Credits | ![Credits Progress](https://progress-bar.xyz/80/?style=for-the-badge) |
-| Debug / Chart Editor | ??? <img width="25" height="25" alt="CE" src="https://github.com/user-attachments/assets/6e54fe11-4737-4e55-ba3d-8906b9981b01" /> | 
-| Results Screen | ![Win Progress](https://progress-bar.xyz/98/?style=for-the-badge) |
-| Death / Fail / Reset | ![Death Progress](https://progress-bar.xyz/80/?style=for-the-badge) |
-| Asset Preloading | ![Pre Progress](https://progress-bar.xyz/50/?style=for-the-badge) |
-
-
----
-
-## Gameplay — 98%
-
-| Area | Progress |
-| --- | ---: |
-| All Base Weeks | ![WEEK Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-| Input System | ![INP Progress](https://progress-bar.xyz/99/?style=for-the-badge) |
-| Sprites | ![Sprite Progress](https://progress-bar.xyz/98/?style=for-the-badge) |
-| Animations | ![Anims Progress](https://progress-bar.xyz/97/?style=for-the-badge) |
-| Events | ![Events Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-| Shaders / Effects | ![FX Progress](https://progress-bar.xyz/100/?style=for-the-badge) |
-
----
-
-## Performance — 100%
-
-Current state: **PERFECT**
-
-There's still optimization work to do, but overall performance is in a pretty decent place.
-
----
 
 ## Proof of Work
 
