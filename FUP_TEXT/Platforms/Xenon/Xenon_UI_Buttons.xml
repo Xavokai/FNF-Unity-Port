@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Xenon_UI_Buttons.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Xenon_Btn_A0000" x="0" y="0" width="385" height="378" frameX="0" frameY="0" frameWidth="385" frameHeight="379"/>
+	<SubTexture name="Xenon_Btn_A0001" x="0" y="0" width="385" height="378" frameX="0" frameY="0" frameWidth="385" frameHeight="379"/>
+	<SubTexture name="Xenon_Btn_A0002" x="385" y="0" width="385" height="379"/>
+	<SubTexture name="Xenon_Btn_A0003" x="385" y="0" width="385" height="379"/>
+	<SubTexture name="Xenon_Btn_B0000" x="770" y="0" width="385" height="378"/>
+	<SubTexture name="Xenon_Btn_B0001" x="770" y="0" width="385" height="378"/>
+	<SubTexture name="Xenon_Btn_B0002" x="1155" y="0" width="378" height="373" frameX="-1" frameY="-4" frameWidth="385" frameHeight="378"/>
+	<SubTexture name="Xenon_Btn_B0003" x="1155" y="0" width="378" height="373" frameX="-1" frameY="-4" frameWidth="385" frameHeight="378"/>
+	<SubTexture name="Xenon_Btn_Back0000" x="1533" y="0" width="389" height="338" frameX="0" frameY="-5" frameWidth="389" frameHeight="345"/>
+	<SubTexture name="Xenon_Btn_Back0001" x="1533" y="0" width="389" height="338" frameX="0" frameY="-5" frameWidth="389" frameHeight="345"/>
+	<SubTexture name="Xenon_Btn_Back0002" x="1922" y="0" width="382" height="345" frameX="-4" frameY="0" frameWidth="389" frameHeight="345"/>
+	<SubTexture name="Xenon_Btn_Back0003" x="1922" y="0" width="382" height="345" frameX="-4" frameY="0" frameWidth="389" frameHeight="345"/>
+	<SubTexture name="Xenon_Btn_LB0000" x="2304" y="0" width="389" height="271" frameX="0" frameY="-6" frameWidth="394" frameHeight="283"/>
+	<SubTexture name="Xenon_Btn_LB0001" x="2304" y="0" width="389" height="271" frameX="0" frameY="-6" frameWidth="394" frameHeight="283"/>
+	<SubTexture name="Xenon_Btn_LB0002" x="2693" y="0" width="392" height="283" frameX="-2" frameY="0" frameWidth="394" frameHeight="283"/>
+	<SubTexture name="Xenon_Btn_LB0003" x="2693" y="0" width="392" height="283" frameX="-2" frameY="0" frameWidth="394" frameHeight="283"/>
+	<SubTexture name="Xenon_Btn_RB0000" x="3085" y="0" width="389" height="271" frameX="-3" frameY="-8" frameWidth="392" frameHeight="280"/>
+	<SubTexture name="Xenon_Btn_RB0001" x="3085" y="0" width="389" height="271" frameX="-3" frameY="-8" frameWidth="392" frameHeight="280"/>
+	<SubTexture name="Xenon_Btn_RB0002" x="3474" y="0" width="390" height="280" frameX="0" frameY="0" frameWidth="392" frameHeight="280"/>
+	<SubTexture name="Xenon_Btn_RB0003" x="3474" y="0" width="390" height="280" frameX="0" frameY="0" frameWidth="392" frameHeight="280"/>
+	<SubTexture name="Xenon_Btn_Start0000" x="0" y="379" width="389" height="338" frameX="0" frameY="-6" frameWidth="389" frameHeight="346"/>
+	<SubTexture name="Xenon_Btn_Start0001" x="0" y="379" width="389" height="338" frameX="0" frameY="-6" frameWidth="389" frameHeight="346"/>
+	<SubTexture name="Xenon_Btn_Start0002" x="389" y="379" width="381" height="346" frameX="-3" frameY="0" frameWidth="389" frameHeight="346"/>
+	<SubTexture name="Xenon_Btn_Start0003" x="389" y="379" width="381" height="346" frameX="-3" frameY="0" frameWidth="389" frameHeight="346"/>
+	<SubTexture name="Xenon_Btn_X0000" x="770" y="379" width="385" height="378"/>
+	<SubTexture name="Xenon_Btn_X0001" x="770" y="379" width="385" height="378"/>
+	<SubTexture name="Xenon_Btn_X0002" x="1155" y="379" width="378" height="367" frameX="-3" frameY="-2" frameWidth="385" frameHeight="378"/>
+	<SubTexture name="Xenon_Btn_X0003" x="1155" y="379" width="378" height="367" frameX="-3" frameY="-2" frameWidth="385" frameHeight="378"/>
+	<SubTexture name="Xenon_Btn_Y0000" x="1533" y="379" width="385" height="378"/>
+	<SubTexture name="Xenon_Btn_Y0001" x="1533" y="379" width="385" height="378"/>
+	<SubTexture name="Xenon_Btn_Y0002" x="1918" y="379" width="385" height="378"/>
+	<SubTexture name="Xenon_Btn_Y0003" x="1918" y="379" width="385" height="378"/>
+	<SubTexture name="Xenon_Dpad_DOWN0000" x="2303" y="379" width="366" height="365" frameX="0" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_DOWN0001" x="2303" y="379" width="366" height="365" frameX="0" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_DOWN0002" x="2669" y="379" width="365" height="366" frameX="-1" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_DOWN0003" x="2669" y="379" width="365" height="366" frameX="-1" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_LEFT0000" x="3034" y="379" width="366" height="365" frameX="0" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_LEFT0001" x="3034" y="379" width="366" height="365" frameX="0" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_LEFT0002" x="3400" y="379" width="365" height="366" frameX="-1" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_LEFT0003" x="3400" y="379" width="365" height="366" frameX="-1" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_RIGHT0000" x="0" y="757" width="366" height="365" frameX="0" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_RIGHT0001" x="0" y="757" width="366" height="365" frameX="0" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_RIGHT0002" x="366" y="757" width="365" height="366" frameX="-1" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_RIGHT0003" x="366" y="757" width="365" height="366" frameX="-1" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_UP0000" x="731" y="757" width="366" height="365" frameX="0" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_UP0001" x="731" y="757" width="366" height="365" frameX="0" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_UP0002" x="1097" y="757" width="365" height="366" frameX="-1" frameY="0" frameWidth="366" frameHeight="366"/>
+	<SubTexture name="Xenon_Dpad_UP0003" x="1097" y="757" width="365" height="366" frameX="-1" frameY="0" frameWidth="366" frameHeight="366"/>
+</TextureAtlas>
