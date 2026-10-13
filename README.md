@@ -2,7 +2,7 @@
 
 i plan to also port this to 3 different platforms
 - mobile
-- xbox 360 (how..?)
+- xbox 360 (how..? likely not going to be in unity, unless i manage to get it to work LOL)
 - PC
 
 
