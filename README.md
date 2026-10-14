@@ -34,28 +34,5 @@ For now, the project is still actively being worked on.
 
 
 
-## Proof of Work
-
-<img width="1051" height="682" alt="FNF Unity Port development screenshot" src="https://github.com/user-attachments/assets/fefd5ae5-1815-4844-895c-ae653c42ff3b" />
-
-### Week 4 Showcase
-
-https://github.com/user-attachments/assets/391e67e0-96db-4cbc-a557-43e049515ed7
-
-### Week 7 Showcase
-
-https://github.com/user-attachments/assets/ec4634ab-222d-4f05-af57-900fac73ebf2
-
-### Weekend 1 Showcase
-- Shows that u can skip cutscenes aswell!
-  
-https://github.com/user-attachments/assets/e940e3f5-9107-4399-bca4-109666f5e414
-
-### Story Mode Screen Showcase
-
-https://github.com/user-attachments/assets/e0d76eaf-6267-492b-84ad-89da1c93f01b
-
-
-
-
+## Proof of Work [HERE](https://github.com/Xavokai/FNF-Unity-Port/blob/main/showcase.md)
 
