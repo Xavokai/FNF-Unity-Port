@@ -27,9 +27,9 @@ For now, the project is still actively being worked on.
 
 ---
 
-### Total Progress
+### Total Progress ( ALMOST DONE!!! )
 
-![Total Progress](https://progress-bar.xyz/54/?style=for-the-badge)
+![Total Progress](https://progress-bar.xyz/85/?style=for-the-badge)
 
 
 
