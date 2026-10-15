@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Keyboard_Keys.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Key_00000" x="0" y="0" width="282" height="129"/>
+	<SubTexture name="Key_10000" x="282" y="0" width="271" height="122"/>
+	<SubTexture name="Key_20000" x="553" y="0" width="294" height="136"/>
+	<SubTexture name="Key_30000" x="847" y="0" width="290" height="133"/>
+	<SubTexture name="Key_40000" x="1137" y="0" width="284" height="130"/>
+	<SubTexture name="Key_50000" x="1421" y="0" width="301" height="140"/>
+	<SubTexture name="Key_60000" x="1722" y="0" width="292" height="135"/>
+	<SubTexture name="Key_70000" x="2014" y="0" width="288" height="132"/>
+	<SubTexture name="Key_80000" x="2302" y="0" width="282" height="129"/>
+	<SubTexture name="Key_90000" x="2584" y="0" width="283" height="129"/>
+	<SubTexture name="Key_A0000" x="1149" y="140" width="303" height="141"/>
+	<SubTexture name="Key_B0000" x="1452" y="140" width="290" height="133"/>
+	<SubTexture name="Key_Base0000" x="601" y="425" width="425" height="264"/>
+	<SubTexture name="Key_Base0001" x="601" y="425" width="425" height="264"/>
+	<SubTexture name="Key_Base0002" x="601" y="425" width="425" height="264"/>
+	<SubTexture name="Key_Base0003" x="601" y="425" width="425" height="264"/>
+	<SubTexture name="Key_C0000" x="1742" y="140" width="303" height="141"/>
+	<SubTexture name="Key_D0000" x="2045" y="140" width="300" height="139"/>
+	<SubTexture name="Key_E0000" x="2345" y="140" width="286" height="131"/>
+	<SubTexture name="Key_F0000" x="2631" y="140" width="287" height="131"/>
+	<SubTexture name="Key_F10000" x="2867" y="0" width="180" height="92"/>
+	<SubTexture name="Key_F100000" x="3047" y="0" width="188" height="97"/>
+	<SubTexture name="Key_F110000" x="3235" y="0" width="188" height="97"/>
+	<SubTexture name="Key_F120000" x="3423" y="0" width="188" height="97"/>
+	<SubTexture name="Key_F20000" x="3611" y="0" width="195" height="101"/>
+	<SubTexture name="Key_F30000" x="3806" y="0" width="192" height="100"/>
+	<SubTexture name="Key_F40000" x="0" y="140" width="189" height="97"/>
+	<SubTexture name="Key_F50000" x="189" y="140" width="199" height="104"/>
+	<SubTexture name="Key_F60000" x="388" y="140" width="194" height="100"/>
+	<SubTexture name="Key_F70000" x="582" y="140" width="191" height="99"/>
+	<SubTexture name="Key_F80000" x="773" y="140" width="188" height="97"/>
+	<SubTexture name="Key_F90000" x="961" y="140" width="188" height="97"/>
+	<SubTexture name="Key_G0000" x="2918" y="140" width="301" height="140"/>
+	<SubTexture name="Key_H0000" x="3219" y="140" width="287" height="132"/>
+	<SubTexture name="Key_I0000" x="3506" y="140" width="287" height="131"/>
+	<SubTexture name="Key_J0000" x="3793" y="140" width="300" height="139"/>
+	<SubTexture name="Key_K0000" x="0" y="281" width="287" height="132"/>
+	<SubTexture name="Key_L0000" x="0" y="281" width="287" height="132"/>
+	<SubTexture name="Key_M0000" x="287" y="281" width="304" height="142"/>
+	<SubTexture name="Key_N0000" x="591" y="281" width="289" height="133"/>
+	<SubTexture name="Key_O0000" x="880" y="281" width="297" height="137"/>
+	<SubTexture name="Key_P0000" x="1177" y="281" width="290" height="133"/>
+	<SubTexture name="Key_Q0000" x="1467" y="281" width="298" height="138"/>
+	<SubTexture name="Key_R0000" x="1765" y="281" width="293" height="135"/>
+	<SubTexture name="Key_S0000" x="2058" y="281" width="294" height="136"/>
+	<SubTexture name="Key_T0000" x="2352" y="281" width="288" height="132"/>
+	<SubTexture name="Key_U0000" x="2640" y="281" width="286" height="131"/>
+	<SubTexture name="Key_V0000" x="2926" y="281" width="302" height="140"/>
+	<SubTexture name="Key_W0000" x="3228" y="281" width="308" height="144"/>
+	<SubTexture name="Key_X0000" x="3536" y="281" width="305" height="142"/>
+	<SubTexture name="Key_Y0000" x="0" y="425" width="302" height="141"/>
+	<SubTexture name="Key_Z0000" x="302" y="425" width="299" height="139"/>
+</TextureAtlas>
