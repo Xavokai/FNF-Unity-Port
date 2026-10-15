@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DS3_UI_Buttons.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DS3_Btn_Circle0000" x="0" y="0" width="385" height="378" frameX="0" frameY="0" frameWidth="386" frameHeight="379"/>
+	<SubTexture name="DS3_Btn_Circle0001" x="0" y="0" width="385" height="378" frameX="0" frameY="0" frameWidth="386" frameHeight="379"/>
+	<SubTexture name="DS3_Btn_Circle0002" x="385" y="0" width="385" height="378" frameX="-1" frameY="-1" frameWidth="386" frameHeight="379"/>
+	<SubTexture name="DS3_Btn_Circle0003" x="385" y="0" width="385" height="378" frameX="-1" frameY="-1" frameWidth="386" frameHeight="379"/>
+	<SubTexture name="DS3_Btn_Cross0000" x="770" y="0" width="385" height="378"/>
+	<SubTexture name="DS3_Btn_Cross0001" x="770" y="0" width="385" height="378"/>
+	<SubTexture name="DS3_Btn_Cross0002" x="1155" y="0" width="384" height="377" frameX="0" frameY="-1" frameWidth="385" frameHeight="378"/>
+	<SubTexture name="DS3_Btn_Cross0003" x="1155" y="0" width="384" height="377" frameX="0" frameY="-1" frameWidth="385" frameHeight="378"/>
+	<SubTexture name="DS3_Btn_PadDown0000" x="1539" y="0" width="371" height="369" frameX="-2" frameY="-1" frameWidth="374" frameHeight="372"/>
+	<SubTexture name="DS3_Btn_PadDown0001" x="1539" y="0" width="371" height="369" frameX="-2" frameY="-1" frameWidth="374" frameHeight="372"/>
+	<SubTexture name="DS3_Btn_PadDown0002" x="1910" y="0" width="374" height="372"/>
+	<SubTexture name="DS3_Btn_PadDown0003" x="1910" y="0" width="374" height="372"/>
+	<SubTexture name="DS3_Btn_PadLeft0000" x="2284" y="0" width="371" height="369"/>
+	<SubTexture name="DS3_Btn_PadLeft0001" x="2284" y="0" width="371" height="369"/>
+	<SubTexture name="DS3_Btn_PadLeft0002" x="2655" y="0" width="371" height="369"/>
+	<SubTexture name="DS3_Btn_PadLeft0003" x="2655" y="0" width="371" height="369"/>
+	<SubTexture name="DS3_Btn_PadRight0000" x="3026" y="0" width="371" height="369" frameX="-2" frameY="-1" frameWidth="374" frameHeight="372"/>
+	<SubTexture name="DS3_Btn_PadRight0001" x="3026" y="0" width="371" height="369" frameX="-2" frameY="-1" frameWidth="374" frameHeight="372"/>
+	<SubTexture name="DS3_Btn_PadRight0002" x="3397" y="0" width="374" height="372"/>
+	<SubTexture name="DS3_Btn_PadRight0003" x="3397" y="0" width="374" height="372"/>
+	<SubTexture name="DS3_Btn_PadUp0000" x="0" y="378" width="371" height="369" frameX="-2" frameY="-1" frameWidth="374" frameHeight="372"/>
+	<SubTexture name="DS3_Btn_PadUp0001" x="0" y="378" width="371" height="369" frameX="-2" frameY="-1" frameWidth="374" frameHeight="372"/>
+	<SubTexture name="DS3_Btn_PadUp0002" x="371" y="378" width="374" height="372"/>
+	<SubTexture name="DS3_Btn_PadUp0003" x="371" y="378" width="374" height="372"/>
+	<SubTexture name="DS3_Btn_Square0000" x="745" y="378" width="385" height="378" frameX="0" frameY="0" frameWidth="386" frameHeight="378"/>
+	<SubTexture name="DS3_Btn_Square0001" x="745" y="378" width="385" height="378" frameX="0" frameY="0" frameWidth="386" frameHeight="378"/>
+	<SubTexture name="DS3_Btn_Square0002" x="1130" y="378" width="386" height="377" frameX="0" frameY="-1" frameWidth="386" frameHeight="378"/>
+	<SubTexture name="DS3_Btn_Square0003" x="1130" y="378" width="386" height="377" frameX="0" frameY="-1" frameWidth="386" frameHeight="378"/>
+	<SubTexture name="DS3_Btn_Triangle0000" x="1516" y="378" width="385" height="378" frameX="0" frameY="0" frameWidth="386" frameHeight="379"/>
+	<SubTexture name="DS3_Btn_Triangle0001" x="1516" y="378" width="385" height="378" frameX="0" frameY="0" frameWidth="386" frameHeight="379"/>
+	<SubTexture name="DS3_Btn_Triangle0002" x="1901" y="378" width="385" height="378" frameX="-1" frameY="-1" frameWidth="386" frameHeight="379"/>
+	<SubTexture name="DS3_Btn_Triangle0003" x="1901" y="378" width="385" height="378" frameX="-1" frameY="-1" frameWidth="386" frameHeight="379"/>
+</TextureAtlas>
