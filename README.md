@@ -27,12 +27,13 @@ For now, the project is still actively being worked on.
 
 ---
 
-### Total Progress ( ALMOST DONE!!! )
+### BASE GAME Total Progress
 
-![Total Progress](https://progress-bar.xyz/85/?style=for-the-badge)
+![Total Progress](https://progress-bar.xyz/95/?style=for-the-badge)
 
+### ENGINE extras + upgrades
 
-
+![Total PProgress](https://progress-bar.xyz/56/?style=for-the-badge)
 
 ## Proof of Work [HERE](https://github.com/Xavokai/FNF-Unity-Port/blob/main/showcase.md)
 
