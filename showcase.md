@@ -19,6 +19,9 @@ https://github.com/user-attachments/assets/e940e3f5-9107-4399-bca4-109666f5e414
 
 https://github.com/user-attachments/assets/e0d76eaf-6267-492b-84ad-89da1c93f01b
 
-### ANDROID BUILD Showcase
+### ANDROID BUILD Showcase ( OUTDATED UI )
 
 <img width="2340" height="1080" alt="image" src="https://github.com/user-attachments/assets/8aec050c-4b0e-4af4-8a94-e6845f492d7a" />
+
+### Main Menu Showcase UPDATED!
+<img width="1388" height="781" alt="image" src="https://github.com/user-attachments/assets/3d6ec62f-aedd-4649-adbb-4bf5c546a11c" />
