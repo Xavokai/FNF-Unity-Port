@@ -1,0 +1,19 @@
+{
+	"name": "Arrows (Outline)",
+	"author": "FNF Unity Port",
+	"notes": "Textures/notes.png",
+	"strums": "Textures/notes.png",
+	"sustain": "Textures/notes.png",
+	"splash": "Textures/noteSplashes.png",
+	"splashScale": 1.0,
+	"splashAlpha": 1.0,
+	"splashOffset": [
+		0,
+		0
+	],
+	"splashRgb": true,
+	"scale": 0.7,
+	"pixel": false,
+	"antialiasing": true,
+	"rgb": true
+}
